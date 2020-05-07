@@ -15,6 +15,6 @@ Requirements:
 
 - Enable the "Split Cells Notebok", see image below
 
-![img.png]
+![extensions](img.png)
 
 The instructions above are outlined in detailed [here](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/install.html).
