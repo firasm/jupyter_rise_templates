@@ -1,6 +1,13 @@
 ## README
 
-Requirements:
+### Export to HTML slides (using Reveal.js)
+
+Run this in a Terminal (command-line) inside this folder (that contains Lecture.ipynb).
+Note that the HTML files will expect to see any images/assets you have in the same place as the jupyter notebook.
+In other words, you will need to keep the .html file in this folder (or include the images in the same directory).
+
+> jupyter nbconvert Lecture.ipynb --to slides
+### Requirements:
 
 - Install jupyter_contrib_nbextensions:
 	- `pip install jupyter_contrib_nbextensions` OR 
